@@ -1,0 +1,1 @@
+Explore python libraries that convert written images/pdf to text.
