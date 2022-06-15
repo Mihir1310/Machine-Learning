@@ -1,0 +1,4 @@
+Exploring libraries for converting tabular entries from pdf to csv files.
+Using following libraries
+-> Tabula
+-> Camelot
