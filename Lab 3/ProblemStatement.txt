@@ -1,0 +1,5 @@
+Using basic Machine Learning techniques predicting values based on dataset.
+Techniques used:
+-> Simple Linear Regression
+-> Multiple Linear Regression (Gradient Descent)
+-> Multiple Linear Regression (Normal Equation)
