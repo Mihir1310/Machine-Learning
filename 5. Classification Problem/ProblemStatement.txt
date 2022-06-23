@@ -1,0 +1,5 @@
+Dataset Used -> Classification Algorithm Applied
+1. Iris Dataset -> Gaussian Naive Bayes
+2. Iris Dataset -> KNN
+3. Spam/Ham Articles -> Bernoulli Naive Bayes
+4. Spam/Ham Articles -> Multinomial Naive Bayes
