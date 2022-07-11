@@ -1,0 +1,3 @@
+This part has 2 types of implementation : 
+-> Implementing K-means Algorithm on Iris Dataset.
+-> Using SMOTE on Cancer Dataset
